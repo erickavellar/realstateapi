@@ -1,0 +1,45 @@
+[
+    {
+        "id": "PW2391",
+        "title": "2 Bed Apartment for sale in Lisbon, Portugal",
+        "location": "Sao Bento, Lisbon, Portugal",
+        "type": "Apartament",
+        "price": 350000,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "pictures": [
+            "https://www.portugalhomes.com/assets/content/properties/2391/photos/1.jpg",
+            "https://www.portugalhomes.com/assets/content/properties/2391/photos/2.jpg"
+        ]
+    },
+    {
+        "id": "PW2363",
+        "title": "1 Bed Apartment for sale in Lisbon, Portugal",
+        "location": "Chiado, Lisbon, Portugal",
+        "type": "Apartament",
+        "price": 269000,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "pictures": [
+            "https://www.portugalhomes.com/assets/content/properties/2363/photos/1.jpg",
+            "https://www.portugalhomes.com/assets/content/properties/2363/photos/2.jpg",
+            "https://www.portugalhomes.com/assets/content/properties/2363/photos/3.jpg"
+        ]
+    },
+    {
+        "id": "PW2360",
+        "title": "Villa for sale in Sintra, Portugal",
+        "location": "Sintra, Colares, Portugal",
+        "type": "Villa",
+        "price": 800000,
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "pictures": [
+            "https://www.portugalhomes.com/assets/content/properties/2360/photos/2.jpg",
+            "https://www.portugalhomes.com/assets/content/properties/2360/photos/4.jpg",
+            "https://www.portugalhomes.com/assets/content/properties/2360/photos/5.jpg",
+            "https://www.portugalhomes.com/assets/content/properties/2360/photos/6.jpg",
+            "https://www.portugalhomes.com/assets/content/properties/2360/photos/7.jpg"
+        ]
+    }
+]
